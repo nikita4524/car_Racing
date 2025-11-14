@@ -145,7 +145,7 @@ Assets/
 
 Clone the repository:
 
-git clone 
+git clone : https://github.com/nikita4524/car_Racing
 
 Open the project in Unity 2022+.
 
